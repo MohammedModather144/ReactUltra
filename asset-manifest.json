@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/ReactUltra/static/css/main.d516b4fa.chunk.css",
+    "main.js": "/ReactUltra/static/js/main.eb1e69d2.chunk.js",
+    "main.js.map": "/ReactUltra/static/js/main.eb1e69d2.chunk.js.map",
+    "runtime-main.js": "/ReactUltra/static/js/runtime-main.fa7aeda9.js",
+    "runtime-main.js.map": "/ReactUltra/static/js/runtime-main.fa7aeda9.js.map",
+    "static/css/2.532c26b4.chunk.css": "/ReactUltra/static/css/2.532c26b4.chunk.css",
+    "static/js/2.3c1502c5.chunk.js": "/ReactUltra/static/js/2.3c1502c5.chunk.js",
+    "static/js/2.3c1502c5.chunk.js.map": "/ReactUltra/static/js/2.3c1502c5.chunk.js.map",
+    "static/js/3.6711fd8c.chunk.js": "/ReactUltra/static/js/3.6711fd8c.chunk.js",
+    "static/js/3.6711fd8c.chunk.js.map": "/ReactUltra/static/js/3.6711fd8c.chunk.js.map",
+    "index.html": "/ReactUltra/index.html",
+    "static/css/2.532c26b4.chunk.css.map": "/ReactUltra/static/css/2.532c26b4.chunk.css.map",
+    "static/css/main.d516b4fa.chunk.css.map": "/ReactUltra/static/css/main.d516b4fa.chunk.css.map",
+    "static/js/2.3c1502c5.chunk.js.LICENSE.txt": "/ReactUltra/static/js/2.3c1502c5.chunk.js.LICENSE.txt",
+    "static/media/about-bg.973f2515.jpg": "/ReactUltra/static/media/about-bg.973f2515.jpg",
+    "static/media/font-awesome.min.css": "/ReactUltra/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/logo.6ce24c58.svg": "/ReactUltra/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa7aeda9.js",
+    "static/css/2.532c26b4.chunk.css",
+    "static/js/2.3c1502c5.chunk.js",
+    "static/css/main.d516b4fa.chunk.css",
+    "static/js/main.eb1e69d2.chunk.js"
+  ]
+}
